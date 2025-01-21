@@ -1,0 +1,26 @@
+# Build folders
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Rider/JetBrains
+.idea/
+*.iml
+
+# Cache files
+*.cache
+*.log
+*.tmp
+
+# Build artifacts
+*.dll
+*.pdb
+*.exe
+
+# Others
+project.assets.json
+project.nuget.cache
